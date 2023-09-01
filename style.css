@@ -1,0 +1,30 @@
+* {
+    background-color: #454441;
+    color: white;
+    text-align: center;
+}
+
+button {
+    background-color: #242424;
+}
+
+.source {
+    font-size: 11px;
+}
+
+button .link{
+    background-color: #242424;
+    color: #ffe791;
+}
+
+ul, 
+ol {
+    list-style-position: inside;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+    color: #ffe791;
+}
